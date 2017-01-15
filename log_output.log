@@ -1,0 +1,28 @@
+SUCCESS>>Opened log: log_output.log>>pessum_files/logging.cpp/InitializeLogging
+INFORMATION>>Mon Jan  9 15:27:59 2017>>TimeStamp
+SUCCESS>>Initialized Ncurses>>appareo_files/curse/curse_core.cpp/InitializeNcurses
+SUCCESS>>Initialized output>>appareo_files/curse/output.cpp/InitializeOutput
+SUCCESS>>Initialized colors>>appareo_files/curse/output.cpp/InitializeColor
+SUCCESS>>Creaded window "Water">>appareo_files/curse/window.cpp/[Water]CreateWindow
+DATA>>0:0>>NULL
+DATA>>1:1>>NULL
+DATA>>2:2>>NULL
+DATA>>3:3>>NULL
+DATA>>4:4>>NULL
+DATA>>5:5>>NULL
+DATA>>6:6>>NULL
+DATA>>7:7>>NULL
+DATA>>8:8>>NULL
+DATA>>9:9>>NULL
+DATA>>10:0>>NULL
+DATA>>11:1>>NULL
+DATA>>12:2>>NULL
+DATA>>13:3>>NULL
+DATA>>14:4>>NULL
+DATA>>15:5>>NULL
+SUCCESS>>Creaded window "Input">>appareo_files/curse/window.cpp/[Input]CreateWindow
+SUCCESS>>Terminated window "Input">>appareo_files/curse/window.cpp/[Input]TerminateWindow
+SUCCESS>>Terminated window "Water">>appareo_files/curse/window.cpp/[Water]TerminateWindow
+SUCCESS>>Terminated Ncurses>>appareo_files/curse/curse_core.cpp/TerminateNCurses
+SUCCESS>>Terminated log file>>pessum_files/logging.cpp/TerminateLogging
+INFORMATION>>Mon Jan  9 15:28:01 2017>>TimeStamp
